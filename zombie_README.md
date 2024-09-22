@@ -4,7 +4,7 @@ Creates a zombie process on the process table.
 ## Installation
 ### clone from
 ```
-git@github.com:Barthmalemew/ZombieProcess.git
+git@github.com:sarambos/ZombieProcess.git
 ```
 ## Usage
 ### run in terminal
