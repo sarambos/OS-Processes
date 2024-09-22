@@ -6,7 +6,7 @@ and then sends it back to be displayed by the client.
 
 ### clone from
 ```
-git@github.com:Barthmalemew/JavaEchoServer-Client.git
+git@github.com:sarambos/JavaEchoServer-Client.git
 ```
 
 ## Usage
