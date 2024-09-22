@@ -6,7 +6,7 @@ then sent back to the parent to be output to the user.
 ## Installation
 ### clone from
 ```
-git@github.com:Barthmalemew/TwoPipes.git
+git@github.com:sarambos/TwoPipes.git
 ```
 ## Usage
 ### run in terminal
