@@ -7,7 +7,7 @@ The final result should be 1.
 ## Installation
 ### clone from
 ```
-git@github.com:Barthmalemew/ForkPractice.git
+git@github.com:sarambos/ForkPractice.git
 ```
 
 ## Usage
